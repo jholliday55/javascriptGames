@@ -1,0 +1,21 @@
+.container-2 {
+    border: 1px solid red;
+    width: 75%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box-container-2 {
+    display: flex;
+    flex-wrap: wrap;
+    border: 1px solid blue;
+    justify-content: space-around;
+
+}
+
+.flex-box-container-2 img {
+    border: 1px solid green;
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0,0,0,0.7) ;
+
+}
